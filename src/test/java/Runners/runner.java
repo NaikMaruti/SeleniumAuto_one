@@ -9,7 +9,7 @@ import io.cucumber.testng.CucumberOptions;
         //features = "C:/Users/marut/IdeaProjects/Automati_1/src/test/java/selFeatures",
         glue={"selStepdefs", "Hooks"},
         tags = "@mrt",
-        dryRun = false,
+        dryRun = true,
         monochrome = true
 
 )
