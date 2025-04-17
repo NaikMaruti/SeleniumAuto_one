@@ -14,5 +14,6 @@ public class extentReport {
         extent.setSystemInfo("Authour","Maruti Naik");
         return extent;
         }
+        
     }
 
